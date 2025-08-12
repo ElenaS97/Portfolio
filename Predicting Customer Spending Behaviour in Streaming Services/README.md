@@ -21,7 +21,7 @@ Applied unsupervised learning algorithms, including k-Means and Hierarchical Clu
 _Predicting Monthly Spending_  
 The Random Forest Regressor model provided the best performance for predicting Monthly_Spend. Its metrics were significantly better than the other models, demonstrating the value of including multiple and categorical features.  
 
-_Churn Prediction_
+_Churn Prediction_  
 The Decision Tree and Random Forest models were the most effective for predicting customer churn.
 
 The high ROC-AUC score for both models confirms their ability to accurately distinguish between customers who churn and those who do not.
