@@ -1,2 +1,2 @@
 # Portfolio
-University assignments
+University assignments about ML projects.
